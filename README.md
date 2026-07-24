@@ -18,6 +18,7 @@ This is what the game includes as of 7.24.26:
 2. Game loop (Selecting players as the Die or the hunted, loading maps, starting & ending rounds, win conditions, etc.)
 3. 4 maps (Warehouse, Haunted Mansion, School, Infiltration)
 4. Spectating (Though there may be bugs as this was just added)
+5. 100% Lua (what Roblox's scripting language is)
 
 **HOW DO I LAUNCH THIS??**
 
@@ -30,9 +31,6 @@ To launch the game:
 1. Click on the bolded link at the top
 2. Press the play button once the link opens to the Roblox page
 3. Install the Roblox client if necessary
-
-**WHAT DOES THIS EVEN DO??**
-It is a Roblox game so it does absolutely nothing useful.
 
 **CREDITS/ACKNOWLEDGEMENTS**
 
