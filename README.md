@@ -12,13 +12,14 @@
 
 This is 7.24.26 version of my Roblox game called the DIE. It is a round-based multiplayer comedy-horror game that supports up to 100 players. In the game, players are selected to either be the Die or the hunted. The hunted have to evade the Die for three and a half minutes while the Die has to kill every single one of them in this time frame. However, it isn't easy for either party as both the hunted and the Die can run super quickly (though the Die can run a bit faster). The game also utilizes physics, with most if not all props in each map being movable.
 
-This is what the game includes as of 7.24.26:
+**This is what the game's features are as of 7.24.26:**
 
 1. Basic controls (WASD + Space for movement, H to unlock mouse, Shift to sprint, Q to taunt)
 2. Game loop (Selecting players as the Die or the hunted, loading maps, starting & ending rounds, win conditions, etc.)
 3. 4 maps (Warehouse, Haunted Mansion, School, Infiltration)
 4. Spectating (Though there may be bugs as this was just added)
-5. 100% Lua (what Roblox's scripting language is)
+5. Footstep sounds (very important)
+6. 100% Lua (what Roblox's scripting language is)
 
 **HOW DO I LAUNCH THIS??**
 
